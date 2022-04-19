@@ -4,6 +4,8 @@ Stack:
 React.js for (Frontend)
 Node, Express, Mongodb, Socket-IO (Backend)
 
+Video Demo: https://youtu.be/wW3Oc44Nfik
+
 UI Design Library - Ant Design and (tons of custom CSS)
 
 # Build instructions
